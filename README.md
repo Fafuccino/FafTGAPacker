@@ -4,6 +4,7 @@ I don't have the time. Fork it if you want. If you don't credit me, that's okay.
 ________________________________
 Howdy !
 I made a little tool to speed up my workflow. It takes 3-4 textures and merges them a single RGBA texture.
+The work is done on the GPU.
 
 **Naming conventions :** Add those suffixes at the end of the file name
 _r = Red Channel
