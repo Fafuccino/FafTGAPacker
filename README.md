@@ -1,7 +1,7 @@
 ## ⚠ **DISCLAIMER** ⚠
 **I'm not a software engineer. It's not optimized, I know, but it doesn't have to be.** Also, I wanna point out that I won't maintain this software or do bugfixes of any sort.
 I don't have the time. Fork it if you want. If you don't credit me, that's okay. I'm just sharing it in case it can help someone but that's it. Thanks for your understanding.
-
+________________________________
 Howdy !
 I made a little tool to speed up my workflow. It takes 3-4 textures and merges them a single RGBA texture.
 
