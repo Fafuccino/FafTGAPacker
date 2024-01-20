@@ -19,7 +19,7 @@ You can go like... "barbara_r.png"
 You can use this tool in 2 different modes :
 
 ## I/O mode :
-- Create an "input" and "output" folder where the .exe is.
+- Create an "input" and "output" folder where the .exe is (if it's not already there).
 - Place your textures in the input folder.
 - Run the .exe and get your files in the output folder
 
