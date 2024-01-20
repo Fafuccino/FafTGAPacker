@@ -32,3 +32,8 @@ You can use this tool in 2 different modes :
 **Emgu CV :** https://github.com/emgucv/emgucv
 
 (if you do fork it and develop it on your own, be aware that you're supposed to release the source code for free or pay a license, since it uses Emgu CV.)
+
+## Icon Credit :
+It's AI Generated. It's not the purpose of this software so plz don't start whining about it.
+Here, steal it if you want <3
+![Faf TGA Packer Icon](https://github.com/Fafuccino/Faf-TGA-Packer-Repo/assets/114378047/fa7061f8-ca65-45c6-8ce7-39b47441fc02)
