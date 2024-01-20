@@ -34,7 +34,14 @@ You can use this tool in 2 different modes :
 
 (if you do fork it and develop it on your own, be aware that you're supposed to release the source code for free or pay a license, since it uses Emgu CV.)
 
-## Icon Credit :
+## Demonstration :
+
+RED : ![dcode-image_r](https://github.com/Fafuccino/FafTGAPacker/assets/114378047/21e8b562-5b0d-40ba-9e43-360f30ceb945)
+GREEN : ![dcode-image_g](https://github.com/Fafuccino/FafTGAPacker/assets/114378047/31c1a4c4-b3d2-4638-a96a-92d423c342cb)
+BLUE : ![dcode-image_b](https://github.com/Fafuccino/FafTGAPacker/assets/114378047/a8d76a9a-34ce-43f7-9b31-f7f7e88d92ab)
+RESULT (well it's png here cuz GitHub doesn't support Targa files): ![dcode-image](https://github.com/Fafuccino/FafTGAPacker/assets/114378047/be678927-7c3e-4c0f-88b9-1ab2c716bbd2)
+
+About the image :
 It's AI Generated. It's not the purpose of this software so plz don't start whining about it.
 Here, steal it if you want <3
 ![Faf TGA Packer Icon](https://github.com/Fafuccino/Faf-TGA-Packer-Repo/assets/114378047/fa7061f8-ca65-45c6-8ce7-39b47441fc02)
