@@ -28,8 +28,8 @@ You can use this tool in 2 different modes :
 - The .TGAs will appear in the folder where the base files where located. It doesn't even have to be where the .exe is located
 
 ## Libraries used :
-**TGASharpLib :** https://github.com/ALEXGREENALEX/TGASharpLib
-**Emgu CV :** https://github.com/emgucv/emgucv
+- **TGASharpLib :** https://github.com/ALEXGREENALEX/TGASharpLib
+- **Emgu CV :** https://github.com/emgucv/emgucv
 
 (if you do fork it and develop it on your own, be aware that you're supposed to release the source code for free or pay a license, since it uses Emgu CV.)
 
