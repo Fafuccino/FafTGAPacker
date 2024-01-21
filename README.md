@@ -1,5 +1,5 @@
 ## ⚠ **DISCLAIMER** ⚠
-**I'm not a software engineer. It's not the most optimized, I know, but it doesn't have to be.** Also, I wanna point out that I won't maintain this software or do bugfixes of any sort.
+**I'm not a software engineer. It's not the most optimized, I know, but it doesn't have to be.** Also, I wanna point out that I won't actively maintain this software or do bugfixes of any sort.
 I don't have the time. Fork it if you want. If you don't credit me, that's okay. I'm just sharing it in case it can help someone but that's it. Thanks for your understanding.
 ________________________________
 Howdy !
